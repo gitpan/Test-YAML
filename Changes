@@ -1,3 +1,6 @@
+1.01 Thu Aug  7 14:41:39 PDT 2014
+ - Remove "use lib 'lib';" per Issue/1. @pghmcfc++
+
 1.00 Thu Aug  7 00:31:04 PDT 2014
  - Fix bad encoding in Pod
 
