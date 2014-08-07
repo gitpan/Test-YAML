@@ -1,3 +1,6 @@
+1.00 Thu Aug  7 00:31:04 PDT 2014
+ - Fix bad encoding in Pod
+
 0.99 Wed Aug  6 17:50:50 PDT 2014
  - Removed from YAML distribution and made Test-YAML dist
 
