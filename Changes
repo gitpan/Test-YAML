@@ -1,3 +1,6 @@
+1.02 Fri Aug 15 20:59:24 PDT 2014
+ - Add 000-none to Meta
+
 1.01 Thu Aug  7 14:41:39 PDT 2014
  - Remove "use lib 'lib';" per Issue/1. @pghmcfc++
 
