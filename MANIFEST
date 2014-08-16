@@ -11,4 +11,3 @@ bin/test-yaml
 lib/Test/YAML.pm
 lib/Test/YAML.pod
 t/release-pod-syntax.t
-t/use_ok.t
