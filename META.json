@@ -34,7 +34,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Test::Base" : "0.74",
+            "Test::Base" : "0.86",
             "perl" : "v5.8.1"
          }
       }
@@ -51,6 +51,6 @@
          "web" : "https://github.com/ingydotnet/test-yaml-pm"
       }
    },
-   "version" : "1.04"
+   "version" : "1.05"
 }
 

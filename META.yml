@@ -19,10 +19,10 @@ no_index:
     - xt
     - example
 requires:
-  Test::Base: '0.74'
+  Test::Base: '0.86'
   perl: v5.8.1
 resources:
   bugtracker: https://github.com/ingydotnet/test-yaml-pm/issues
   homepage: https://github.com/ingydotnet/test-yaml-pm
   repository: https://github.com/ingydotnet/test-yaml-pm.git
-version: '1.04'
+version: '1.05'

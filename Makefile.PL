@@ -22,9 +22,9 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Test::YAML",
   "PREREQ_PM" => {
-    "Test::Base" => "0.74"
+    "Test::Base" => "0.86"
   },
-  "VERSION" => "1.04",
+  "VERSION" => "1.05",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -32,7 +32,7 @@ my %WriteMakefileArgs = (
 
 
 my %FallbackPrereqs = (
-  "Test::Base" => "0.74"
+  "Test::Base" => "0.86"
 );
 
 
